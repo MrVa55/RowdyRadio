@@ -1,0 +1,6 @@
+requests
+simpleaudio
+pydub
+flask
+flask-wtf
+python-dotenv
